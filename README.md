@@ -1,1 +1,1 @@
-# ETFstock prediction-Accenture
+# ETF stock prediction-Accenture
